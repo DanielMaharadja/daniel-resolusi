@@ -1,0 +1,8 @@
+RENCANA CODING 
+- belajar html
+- belajar git
+- belajar github
+BAHASA PEMOGRAMAN 
+- javascript
+- golang
+- c+
